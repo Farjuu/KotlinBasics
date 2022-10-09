@@ -1,9 +1,10 @@
-package dev.farjana.kotlinbasics
+package dev.farjana.kotlinbasics.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ImageView
 import android.widget.TextView
+import dev.farjana.kotlinbasics.R
 
 class BirthDayCard : AppCompatActivity() {
 

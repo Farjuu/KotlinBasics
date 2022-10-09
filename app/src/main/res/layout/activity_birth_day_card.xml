@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:alpha="9"
     android:background="@color/cardview_dark_background"
-    tools:context=".BirthDayCard">
+    tools:context=".activities.BirthDayCard">
 
     <TextView
         android:id="@+id/wishText"
