@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
         val coinSpin = Coin(4)
         maintext.setText(diceRoll.roll().toString() +" "+  diceRoll.rollColor() + coinSpin.spin())
 
-
+//var a = 10;
        // var intent = Intent(this@MainActivity,BirthDayCard::class.java)
        // startActivity(intent)
     }
